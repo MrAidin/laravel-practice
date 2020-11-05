@@ -276,4 +276,5 @@ Route::get('/admin', function () {
 //
 //
 //});
+//some problems are fix
 
